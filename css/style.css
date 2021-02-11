@@ -418,10 +418,6 @@ body {
   grid-area: txt;
 }
 
-/*!!
--passer à la ligne
-*/
-
 .c-client--reseaux {
   padding-top: 12px;
   display: flex;
@@ -441,10 +437,6 @@ body {
 }
 
 /*--Animations-------------------------------*/
-
-/*!!
--comprendre l'animation
-*/
 
 .c-client--reseaux--link-animations {
   display: inline-block;
